@@ -1,0 +1,4 @@
+
+export const TEST_DATA_REQUEST = 'TEST_DATA_REQUEST';
+export const TEST_DATA_SUCCESS = 'TEST_DATA_SUCCESS';
+export const TEST_DATA_FAIL = 'TEST_DATA_FAIL';
