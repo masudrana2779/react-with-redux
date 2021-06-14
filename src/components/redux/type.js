@@ -1,0 +1,7 @@
+export const SET_NAME = 'SET_NAME';
+export const LOADING_NAME = 'LOADING_NAME';
+export const ERROR_NAME = 'ERROR_NAME';
+
+export const USER_INFO_REQUEST = 'USER_INFO_REQUEST';
+export const USER_INFO_SUCCESS = 'USER_INFO_SUCCESS';
+export const USER_INFO_FAILURE = 'USER_INFO_FAILURE';
